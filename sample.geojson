@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "立命館大学衣笠キャンパス"
+      },
+      "geometry": {
+        "coordinates": [
+          135.72376046509754,
+          35.032728498452826
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
