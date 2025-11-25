@@ -48,8 +48,10 @@ const map = new maplibregl.Map({
             'text-field': ['get', 'name'], // GeoJSONのプロパティ'name'を表示
             'text-font': ['Noto Sans JP bold'],
             'text-size': 12,
-            'text-offset': [0, 1.5],
+            'text-offset': [0, 0.9],
             'text-anchor': 'top',
+            'text-allow-overlap': false,
+            'text-ignore-placement': false,
           },
           paint: {
             'text-color': '#13034aff',
