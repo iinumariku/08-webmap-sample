@@ -20,7 +20,7 @@ const map = new maplibregl.Map({
         },
         'my-data': {
           type: 'geojson',
-          data: 'sample.geojson',
+          data: 'retails.geojson',
         }
       },
       layers: [
@@ -35,7 +35,7 @@ const map = new maplibregl.Map({
           source: 'my-data',
           paint: {
             'circle-radius': 6,
-            'circle-color': '#FF0000',
+            'circle-color': '#124017ff',
             'circle-stroke-width': 2,
             'circle-stroke-color': '#FFFFFF',
           },
@@ -46,15 +46,15 @@ const map = new maplibregl.Map({
           source: 'my-data',
           layout: {
             'text-field': ['get', 'name'], // GeoJSONのプロパティ'name'を表示
-            'text-font': ['Noto Sans JP Regular'],
+            'text-font': ['Noto Sans JP bold'],
             'text-size': 12,
             'text-offset': [0, 1.5],
             'text-anchor': 'top',
           },
           paint: {
-            'text-color': '#000000',
+            'text-color': '#13034aff',
             'text-halo-color': '#FFFFFF',
-            'text-halo-width': 2,
+            'text-halo-width': 1.5,
           }
         }
       ]
@@ -62,11 +62,11 @@ const map = new maplibregl.Map({
 
     // center: 地図の初期表示位置を経度・緯度で指定
     // [経度, 緯度] の順番で指定します
-    center: [139.6917, 35.6895], // 東京駅付近
+    center: [137.9642, 36.2310], // 東京駅付近
 
     // zoom: 地図の初期ズームレベルを指定
     // 数値が大きいほど拡大表示されます
-    zoom: 1,
+    zoom: 6,
 
     // hash: URLのハッシュ部分に地図の位置情報を反映させるかどうか
     hash: true,

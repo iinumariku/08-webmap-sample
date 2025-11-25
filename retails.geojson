@@ -1,0 +1,427 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 2273309270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.425209,
+          36.329258
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "萬屋骨董店",
+        "shop": "antiques"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3081133934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9160559,
+          35.1956463
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "牧野和裁"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3711729273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8845899,
+          36.3970759
+        ]
+      },
+      "properties": {
+        "addr:city": "池田町",
+        "addr:housenumber": "6330-1",
+        "addr:postcode": "399-8602",
+        "addr:street": "大字会染",
+        "building": "retail",
+        "name": "池田町ハーブセンター",
+        "name:en": "Ikeda Herb Center",
+        "phone": "0261-62-6200"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3847384439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0563069,
+          37.9163315
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "新潟ALTA"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3884244400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1915807,
+          34.6875103
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:levels": "2",
+        "name": "TSUTAYA 相良店",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3895012688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9324258,
+          35.0559005
+        ]
+      },
+      "properties": {
+        "branch": "伊豆の国江間店",
+        "building": "retail",
+        "name": "ローソン",
+        "name:en": "LAWSON",
+        "name:ko": "로손",
+        "opening_hours": "24/7",
+        "phone": "+81 55 948 0551",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4198420065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4078616,
+          34.9685095
+        ]
+      },
+      "properties": {
+        "brand": "MINISTOP",
+        "building": "retail",
+        "name": "ミニストップ",
+        "name:en": "MINISTOP",
+        "name:ja": "ミニストップ",
+        "name:ja_rm": "Mini Sutoppu",
+        "name:ko": "미니스톱",
+        "opening_hours": "24/7",
+        "shop": "convenience",
+        "website": "https://www.ministop.co.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4398897167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.0030799,
+          34.7710331
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "コマツ菓子店",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4398899737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.0061979,
+          34.7766112
+        ]
+      },
+      "properties": {
+        "branch": "掛川店",
+        "brand": "りらくる",
+        "brand:en": "RELXLE",
+        "brand:ja": "りらくる",
+        "brand:wikidata": "Q92944647",
+        "building": "retail",
+        "name": "りらくる",
+        "name:en": "RELXLE",
+        "name:ja": "りらくる",
+        "shop": "massage"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5052565872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.247861,
+          34.6510661
+        ]
+      },
+      "properties": {
+        "branch": "ラトリエコリコ",
+        "building": "retail",
+        "name": "ラトリエコリコ",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5075326250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2539326,
+          34.7801832
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "カネハチ片岡店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5259094384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1141666,
+          37.9431785
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "デイリーヤマザキ 新潟太平店",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5259094385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1141075,
+          37.9411395
+        ]
+      },
+      "properties": {
+        "branch": "新潟向陽二丁目店",
+        "brand": "セブン-イレブン",
+        "brand:en": "7-Eleven",
+        "brand:ja": "セブン-イレブン",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "building": "retail",
+        "name": "セブン-イレブン",
+        "name:en": "7-Eleven",
+        "name:ja": "セブン-イレブン",
+        "official_name:en": "Seven-Eleven",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5501194231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.3728055,
+          34.7458618
+        ]
+      },
+      "properties": {
+        "branch": "豊橋南店南支店",
+        "brand": "ニッショー",
+        "building": "retail",
+        "name": "株式会社ニッショー",
+        "name:en": "Nissho",
+        "name:ja": "株式会社ニッショー",
+        "name:ja_kana": "かぶしきがいしゃにっしょー",
+        "name:ja_rm": "Nissho",
+        "office": "estate_agent",
+        "operator": "株式会社ニッショー"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5501194242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.3747662,
+          34.7475434
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "もち吉豊橋店",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5575045773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.4266294,
+          34.760358
+        ]
+      },
+      "properties": {
+        "branch": "田中金魚",
+        "building": "retail",
+        "name": "田中金魚",
+        "pet": "fish",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5656108131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2538402,
+          35.3566856
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "ちゃわん屋みずなみ",
+        "shop": "houseware"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8122060532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1185117,
+          34.97458
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "アップガレージ 岡崎宇頭店"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9177755678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9295837,
+          34.9213025
+        ]
+      },
+      "properties": {
+        "branch": "伊豆月ケ瀬店",
+        "building": "retail",
+        "name": "ローソン",
+        "name:en": "Lawson",
+        "opening_hours": "24/7",
+        "phone": "+81 558 87 2220",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9341130954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1001673,
+          35.2260878
+        ]
+      },
+      "properties": {
+        "addr:block_number": "25",
+        "addr:city": "瀬戸市",
+        "addr:postcode": "489-0044",
+        "addr:province": "愛知県",
+        "addr:quarter": "栄町",
+        "building": "retail",
+        "craft": "confectionery",
+        "description": "名物は瀬戸川饅頭（こしあんの酒種蒸し饅頭）で、賞味期限当日中、その日のうちに堅くなるため、翌日以降に食べる場合は、冷凍保存と蒸し器や電子レンジによる加熱が必要となる。",
+        "name": "川村屋賀栄",
+        "name:en": "Kawamura-Ya Gaei",
+        "name:ja": "川村屋賀栄",
+        "name:ja-Hira": "かわむらやがえい",
+        "opening_hours": "We-Mo 08:00-Sold Out (18:00)",
+        "opening_hours:covid19": "restricted",
+        "operator": "川村屋賀栄",
+        "phone": "+81-561-84-2221  ​",
+        "product": "wagashi",
+        "website": "https://www.kawamurayagaei.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10099993519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8164522,
+          35.5007538
+        ]
+      },
+      "properties": {
+        "branch": "飯田アップルロード店",
+        "brand": "イオン",
+        "brand:en": "AEON",
+        "brand:ja": "イオン",
+        "brand:wikidata": "Q11285951",
+        "brand:wikipedia": "ja:イオン (店舗ブランド)",
+        "building": "retail",
+        "name": "イオン",
+        "name:en": "AEON",
+        "name:ja": "イオン",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10869568500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1653486,
+          37.8370028
+        ]
+      },
+      "properties": {
+        "addr:all": "新潟県上野市窪川原553-2",
+        "building": "retail",
+        "name": "道の駅「あがの」",
+        "phone": "0250-25-7011",
+        "postal_code": "959-2126"
+      }
+    }
+  ]
+}
