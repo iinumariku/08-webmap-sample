@@ -73,7 +73,7 @@ const map = new maplibregl.Map({
     // hash: URLのハッシュ部分に地図の位置情報を反映させるかどうか
     hash: true,
 
-    maxZoom: 10,
+    maxZoom: 18,
     minZoom: 4,
 });
 
